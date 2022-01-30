@@ -9,10 +9,9 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/TanviSh70149225">
- <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    
-</a>
+<a href="https://twitter.com/TanviSh70149225"><img align="left" alt="Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
+<a href="https://www.instagram.com/tanvi_1304/"><img align="left" alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a>
+
 <br />
 
 
@@ -28,7 +27,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
+<br />
+<br />
 
 <img src ="https://github-readme-stats.vercel.app/api?username=tanvi1110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
