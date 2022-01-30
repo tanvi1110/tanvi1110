@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-<a href="#" src="https://twitter.com/TanviSh70149225">
+<a href="https://twitter.com/TanviSh70149225">
  <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    
 </a>
 <br />
 
