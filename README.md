@@ -1,9 +1,2 @@
- 2021
-- 👋 Hi, I’m Tanvi interested to dive deep into ocean of development.
-- 🌱 I’m currently learning webdevelopment starting with basic html
-- 📫 I'm available in insta - tanvi_1304 : twitter - @TanviSh70149225
-- will keep you updated as I'll move forward to learn more.
- 2022
-- Learned Html CSS and heading to JS... 
-Hola, I'm <h2>Tanvi</h2> 
-Currently pursuing B.tech with Artificial Intelligence and Data Science 
+<p> Hola, I'm <h2>Tanvi</h2> </p> 
+<p>Currently pursuing B.tech with Artificial Intelligence and Data Science</p> 
