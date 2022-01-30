@@ -5,3 +5,5 @@
 - will keep you updated as I'll move forward to learn more.
  2022
 - Learned Html CSS and heading to JS... 
+Hola, I'm <h2>Tanvi</h2> 
+Currently pursuing B.tech with Artificial Intelligence and Data Science 
