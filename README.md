@@ -1,4 +1,7 @@
 ### Hola, I'm Tanvi 👋 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanvi1110&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
 ## I'm an Enthusiastic Person always curious of how things work !!
 
@@ -25,12 +28,18 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://www.java.com"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px"
+       /> </a> 
+       
 
 <br />
 <br />
 <br />
 
 <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi1110&theme=tokyonight"/>
+
 <img src ="https://github-readme-stats.vercel.app/api?username=tanvi1110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
