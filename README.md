@@ -1,6 +1,6 @@
 ### Hola, I'm Tanvi 👋 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanvi1110&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="tanvi-1110" /> 
   </p>
 
 ## I'm an Enthusiastic Person always curious of how things work !!
