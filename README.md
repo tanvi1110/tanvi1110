@@ -47,4 +47,5 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=tanvi1110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+[![An image of @tanvi1110's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvi1110)](https://holopin.io/@tanvi1110)
 
