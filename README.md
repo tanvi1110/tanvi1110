@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning whatever I can 😜 
 - 💫 Working on my sample portfolio(In progress)
-- 🥅 2022 Goals: Become full stack web developer and start contributing to Open Source projects
 - ⚡ Fun fact: I love to watch kdramas and animes 🙃
 
 ### Connect with me:
