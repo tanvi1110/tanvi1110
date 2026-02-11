@@ -40,11 +40,16 @@
 </div>
 <br><br>
 
-## I'm an Enthusiastic Person always curious of how things work !!
 
-- 🌱 Learning. Building. Improving - one commit at a time. 
-- 💫 I fix bugs... then create new ones for balance ⚖️
-- ⚡ Fun fact: I unwind with animes 🙃
+ ## I'm an Enthusiastic Person always curious of how things work !!
+<p>
+ <img  align="right" src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="160" />
+  
+ ✌️ &emsp; Learning. Building. Improving - one commit at a time. <br/><br/>
+ ❤️ &emsp; I fix bugs... then create new ones for balance ⚖️<br/><br/>
+ 💬 &emsp;  Fun fact: I unwind with animes 🙃
+
+</p>
 
 ### Connect with me:
 
