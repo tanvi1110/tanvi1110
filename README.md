@@ -79,8 +79,16 @@
 <br />
 
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi1110&theme=tokyonight"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
+<br><br>
 
 <img src ="https://github-readme-stats.vercel.app/api?username=tanvi1110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
 [![An image of @tanvi1110's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvi1110)](https://holopin.io/@tanvi1110)
