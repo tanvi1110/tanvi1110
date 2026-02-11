@@ -1,5 +1,5 @@
 
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" />
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" />
 
 <!-- Intro  -->
 <h3 align="center">
@@ -7,6 +7,8 @@
                 <b><a target="_blank" href="https://alsiam.com">Tanvi</a></b>
         </samp>
 </h3>
+
+
 <p align="center">
  <a href="https://tanvi-sh.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -19,8 +21,9 @@
  </a> 
 </p>
 <br />
+
 <!--- -- gradient --------------------------------------------------------------------------------------------------------------------------------- -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
 
 <!--- -- Parrots --------------------------------------------------------------------------------------------------------------------------------- -->
