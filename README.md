@@ -42,9 +42,9 @@
 
 ## I'm an Enthusiastic Person always curious of how things work !!
 
-- 🌱 I’m currently learning whatever I can 😜 
-- 💫 Working on my sample portfolio(In progress)
-- ⚡ Fun fact: I love to watch kdramas and animes 🙃
+- 🌱 Learning. Building. Improving - one commit at a time. 
+- 💫 I fix bugs... then create new ones for balance ⚖️
+- ⚡ Fun fact: I unwind with animes 🙃
 
 ### Connect with me:
 
