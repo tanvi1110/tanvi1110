@@ -43,7 +43,7 @@
 
  ## I'm an Enthusiastic Person always curious of how things work !!
 <p>
- <img  align="right" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="300" />
+ <img  align="right" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="250" />
   
  ✌️ &emsp; Learning. Building. Improving - one commit at a time. <br/><br/>
  ❤️ &emsp; I fix bugs... then create new ones for balance ⚖️<br/><br/>
@@ -51,6 +51,10 @@
 
 </p>
 
+<br>
+<br>
+<br>
+<br>
 ### Connect with me:
 
 <a href="https://twitter.com/TanviSh70149225"><img align="left" alt="Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
