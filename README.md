@@ -43,7 +43,7 @@
 
  ## I'm an Enthusiastic Person always curious of how things work !!
 <p>
- <img  align="right" src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="160" />
+ <img  align="right" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="300" />
   
  ✌️ &emsp; Learning. Building. Improving - one commit at a time. <br/><br/>
  ❤️ &emsp; I fix bugs... then create new ones for balance ⚖️<br/><br/>
