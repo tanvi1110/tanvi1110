@@ -2,20 +2,6 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanvi1110&label=Profile%20views&color=0e75b6&style=flat"
     alt="tanvi-1110" /> 
   </p>
-
-<!--header-->
-<table>
- 
-  
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
 ## I'm an Enthusiastic Person always curious of how things work !!
 
 - 🌱 I’m currently learning whatever I can 😜 
