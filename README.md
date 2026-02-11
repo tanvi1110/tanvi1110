@@ -7,7 +7,18 @@
                 <b><a target="_blank" href="https://alsiam.com">Tanvi</a></b>
         </samp>
 </h3>
-
+<p align="center">
+ <a href="https://tanvi-sh.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/tanvi-sh-546k/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://instagram.com/tanvi_546k" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+</p>
+<br />
 <!--- -- gradient --------------------------------------------------------------------------------------------------------------------------------- -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
@@ -55,6 +66,9 @@
 <br>
 <br>
 <br>
+
+
+
 ### Connect with me:
 
 <a href="https://twitter.com/TanviSh70149225"><img align="left" alt="Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
