@@ -72,9 +72,6 @@
 <br>
 <br>
 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tanvi-shah-4b2159225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tanvi-shah-4b2159225?trk=profile-badge">Tanvi Shah</a></div>
-              
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
